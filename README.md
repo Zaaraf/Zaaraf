@@ -13,6 +13,8 @@ I'm an enthusiastic Frontend Web developer who has been building side projects f
 * 🖥️  See my portfolio at [faraaz.netlify.app](https://faraaz.netlify.app/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaraf" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaaraf&theme=transparent" /> 
+
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
