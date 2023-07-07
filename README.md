@@ -12,6 +12,8 @@ I'm an enthusiastic Frontend Web developer who has been building side projects f
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [faraaz.netlify.app](https://faraaz.netlify.app/)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaraf" />
+
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
