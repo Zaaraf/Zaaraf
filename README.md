@@ -16,6 +16,8 @@ I'm an enthusiastic Frontend Web developer who has been building side projects f
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaaraf&theme=tokyonight-duo" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=zaaraf&show_icons=true&locale=en&theme=github_dark" /> 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zaaraf" /> 
+<img src="https://komarev.com/ghpvc/?username=zaaraf" /> 
+
 
 
 <h3 align="left">🤝 Connect with me:</h3>
